@@ -20,4 +20,4 @@ CSS → Estilização para recriação visual do site original.
 
 JavaScript → Funcionalidades interativas e navegação dinâmica.
 
-<h2 align="center" style="text-align:center; justify-content:center">🚀 Desenvolvido Por: Pedro Victor 21/07/23<h2>
+<h2 align="center" style="text-align:center; justify-content:center">🚀 Desenvolvido Por: Pedro Victor 29/09/24<h2>
